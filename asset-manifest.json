@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Harsha-Samarasinghe-Portfolio-V1.2/static/css/main.9033cdcb.css",
+    "main.js": "/Harsha-Samarasinghe-Portfolio-V1.2/static/js/main.41df40e3.js",
+    "static/media/ScholaHub.png": "/Harsha-Samarasinghe-Portfolio-V1.2/static/media/ScholaHub.e7bca22079f55936f08f.png",
+    "static/media/SavendraGardens.png": "/Harsha-Samarasinghe-Portfolio-V1.2/static/media/SavendraGardens.bedafcf455a0460e70a9.png",
+    "static/media/HarshaSamarasinghePortfolio.png": "/Harsha-Samarasinghe-Portfolio-V1.2/static/media/HarshaSamarasinghePortfolio.ffc8d974d1db6ec779f7.png",
+    "static/media/SportsZaga.png": "/Harsha-Samarasinghe-Portfolio-V1.2/static/media/SportsZaga.61b40832149428923173.png",
+    "static/media/myport.jpg": "/Harsha-Samarasinghe-Portfolio-V1.2/static/media/myport.990426072b452e0733f5.jpg",
+    "static/media/profileImage.jpg": "/Harsha-Samarasinghe-Portfolio-V1.2/static/media/profileImage.1ea2c6d323c3eb9203b5.jpg",
+    "index.html": "/Harsha-Samarasinghe-Portfolio-V1.2/index.html",
+    "main.9033cdcb.css.map": "/Harsha-Samarasinghe-Portfolio-V1.2/static/css/main.9033cdcb.css.map",
+    "main.41df40e3.js.map": "/Harsha-Samarasinghe-Portfolio-V1.2/static/js/main.41df40e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9033cdcb.css",
+    "static/js/main.41df40e3.js"
+  ]
+}
